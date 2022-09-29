@@ -60,7 +60,7 @@ function App() {
   }, []);
 
   return (
-
+  
     <AnimatedPage>
       <div className="container2">
           <Table className="coinTable" striped bordered hover>
